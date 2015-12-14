@@ -40,6 +40,7 @@ $(document).ready(function () {
 			said.indexOf('your name') > -1 ? su.text = 'My name is Vicki!' : su.text = 'Sorry, I did not understand what you meant.';
 			said.indexOf('your father') > -1 ? su.text = 'Are you Charles!' : su.text = 'Sorry, I did not understand what you meant.';
 			said.indexOf('hello') > -1 ? su.text = 'Hi there!' : su.text = 'Sorry, I did not understand what you meant.';
+			said.indexOf('hi') > -1 ? su.text = 'Hi there!' : su.text = 'Sorry, I did not understand what you meant.';
 		}
 		$('#answered').prepend('<div>' + su.text + '</div>');
 		su.voice = 'vicki';
