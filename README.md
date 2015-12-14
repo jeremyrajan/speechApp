@@ -4,7 +4,7 @@ This application is a demonstration for Chrome Speech API. This application take
 
 <a href="http://caniuse.com/#feat=speech-recognition" target="_blank">Learn More >></a>
 
-### [DEMO](http://jeremyrajan.com/speechApp/)
+### [DEMO](https://jeremyrajan.com/speechApp/)
 
 ### USAGE
 <hr/>
