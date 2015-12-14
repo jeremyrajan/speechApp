@@ -1,0 +1,29 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.panel{
+    min-width: 300px;
+    height: 300px;
+    border: 1px solid #ccc;
+    background: whitesmoke;
+    padding:5px;
+    overflow:scroll;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
